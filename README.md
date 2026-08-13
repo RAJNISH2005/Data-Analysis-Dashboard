@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Interactive Sales Dashboard built using Microsoft Excel to analyze sales, orders, customer demographics, order status, top performing states, and sales channel.
+# ShopKart Data Analysis Dashboard
+## Project Objective
+The ShopKart store wants to create an annual sales report. So that, the Owner of the ShopKart store can understand their customer and grow more sales.
