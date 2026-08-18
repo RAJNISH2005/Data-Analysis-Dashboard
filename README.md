@@ -17,7 +17,7 @@ The ShopKart store wants to create an annual sales report. So that, the Owner of
 - Which age group contributes the most orders?
 
 ## Dashboard Interaction 
-- <a href="https://github.com/RAJNISH2005/Data-Analysis-Dashboard/blob/main/Screenshot%202026-08-13%20212722.png">
+- <a href="https://github.com/RAJNISH2005/Data-Analysis-Dashboard/blob/main/Screenshot%202026-08-13%20212722.png">Dashboard Interaction</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
